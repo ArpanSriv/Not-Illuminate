@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="sample_artist_name">Kygo - feat. Ellie Goulding</string>
+    <string name="sample_song_name">FIRST TIME</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="sample_elapsed_time">1:52</string>
+    <string name="sample_max_time">3:28</string>
+    <string name="albumart">AlbumArt</string>
+    <string name="albumart_album">AlbumArt (Album)</string>
+    <string name="sample_album_name">Top 40 US Singles</string>
+    <string name="KYGO">Kygo</string>
+    <string name="dmitri_vegas">Dmitri Vegas</string>
+    <string name="song_detail"> %1$s • %2$s </string>
+    <string name="search_title">Type here</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Why do we use it?  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</string>
+    <string name="ArtistImageTransitionName">iv_to_be_animated</string>
+</resources>
